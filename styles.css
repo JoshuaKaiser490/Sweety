@@ -61,7 +61,7 @@ a:hover {
 }
 
 header {
-  background-image: url(/images/sweetBg.jpg);
+  background-image: url(sweetBg.jpg);
   background-position: no-repeat;
   background-size: cover;
   width: 100%;
