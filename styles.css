@@ -60,6 +60,10 @@ a:hover {
   text-decoration: underline solid 3px #ff1493;
 }
 
+a:visited{
+  color: #121040;
+}
+
 header {
   background-image: url(sweetBg.jpg);
   background-position: no-repeat;
